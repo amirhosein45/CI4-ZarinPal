@@ -5,7 +5,7 @@ This library let you make the payment procces based on ZarinPal, effortless and 
 
 ## Installation
 ***
-1. [Download](https://github.com/amirhossein2020/CI4-ZarinPal/archive/refs/heads/main.zip) the source files
+1. [Download](https://github.com/amirhossein45/CI4-ZarinPal/archive/refs/heads/main.zip) the source files
 2. Copy the folder `Libraries` to `app` folder of your CodeIgniter installation
 3. That's it! Start using with the examples below 
 
